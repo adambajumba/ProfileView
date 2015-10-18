@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">aProfile View</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_profile">DisplayProfileActivity</string>
+    <string name="enter_name">Your name</string>
+    <string name="enter_bio">140 characters about yourself</string>
+    <string name="enter_phone">Your phone Number</string>
+    <string name="upload_image">UPLOAD PIC</string>
+    <string name="submit">SUBMIT</string>
+    <string name="phone_number">+233 020 123 4567</string>
+    <string name="bio">I am a vivacious woman with a mission to make everyone a fashion icon. I will speak Twi to you even when you don’t understand it</string>
+    <string name="title_activity_photo">photo</string>
+</resources>
+
